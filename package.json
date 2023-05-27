@@ -10,7 +10,7 @@
   "engines": {
     "node": "14.x"
   },
-  "author": "masayuki.h0729@gmail.com",
+  "author": "masamasah",
   "license": "MIT",
   "dependencies": {
     "@slack/bolt": "^3.13.1",
